@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Downloaded ONNX models (run download.py after cloning)
+models/
+
+# OS / editor / secrets
+.DS_Store
+.env
+.env.*
+.ipynb_checkpoints/
